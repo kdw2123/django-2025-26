@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "book",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "title": "animal",
+        "completed": true
+    },
+    {
+        "id": 3,
+        "title": "human",
+        "completed": false
+    }
+]
